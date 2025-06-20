@@ -1,9 +1,245 @@
----
-layout: default
-title: Bhavesh Neekhra, PhD Candidate
----
-<div class="blurb">
-	<h1>Bhavesh Neekhra</h1>
-</div><!-- /.blurb -->
-PhD Candidate at Ashoka University
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Bhavesh Neekhra | High-Dimensional Data & ML Researcher</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="favicon.ico" type="image/x-icon" />
+  <style>
+    :root {
+      --primary-color: #002b36;
+      --accent-color: #268bd2;
+      --text-color: #333;
+      --background-color: #fefefe;
+    }
 
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", sans-serif;
+      background-color: var(--background-color);
+      color: var(--text-color);
+      line-height: 1.6;
+    }
+
+    .dark-mode {
+        background-color: #121212;
+        color: #f0f0f0;
+    }
+    .dark-mode .highlight {
+        background-color: #1e1e1e;
+        border-left: 4px solid #4fc3f7;
+    }
+
+    .dark-mode nav,
+    .dark-mode footer {
+      background-color: #1c1c1c;
+    }
+    
+    .dark-mode header::after {
+         background: rgba(0, 0, 0, 0.6); /* stronger overlay in dark */
+    }
+    /* .dark-mode header {
+      background-color: #111;
+    } */
+
+    .dark-mode a {
+      color: #4fc3f7;
+    }
+    .dark-mode .button {
+        background-color: #4fc3f7;
+        color: #000;
+    }
+
+    header {
+      background-image: url('banner.jpg'); /* <-- your tree image here */
+      background-size: cover;
+      background-position: center;
+      color: white;
+      padding: 100px 20px;
+      text-align: center;
+      position: relative;
+    }
+
+    header::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.4);
+      z-index: 0;
+    }
+
+    header > * {
+      position: relative;
+      z-index: 1;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+
+    header p {
+      font-size: 1.1rem;
+      margin-top: 10px;
+    }
+
+    nav {
+      background-color: #e8e8e8;
+      padding: 10px 20px;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    nav a {
+      color: var(--primary-color);
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    nav a:hover {
+      color: var(--accent-color);
+    }
+
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    h2 {
+      color: var(--primary-color);
+      margin-bottom: 20px;
+      font-size: 1.8rem;
+    }
+
+    .highlight {
+      background: #f5f5f5;
+      border-left: 4px solid var(--accent-color);
+      padding: 15px 20px;
+      margin-bottom: 30px;
+    }
+
+    .button {
+      display: inline-block;
+      background-color: var(--accent-color);
+      color: white;
+      padding: 10px 16px;
+      border-radius: 4px;
+      text-decoration: none;
+      font-weight: 500;
+      margin: 5px;
+    }
+
+    footer {
+      background-color: #f0f0f0;
+      padding: 20px;
+      text-align: center;
+      font-size: 0.9rem;
+      color: #555;
+    }
+
+    .toggle-button {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: #333;
+      color: #fff;
+      border: none;
+      padding: 10px 12px;
+      border-radius: 5px;
+      cursor: pointer;
+      z-index: 1000;
+    }
+  </style>
+  <script>
+    function toggleDarkMode() {
+      document.body.classList.toggle("dark-mode");
+      localStorage.setItem("darkMode", document.body.classList.contains("dark-mode"));
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+      if (localStorage.getItem("darkMode") === "true") {
+        document.body.classList.add("dark-mode");
+      }
+    });
+  </script>
+</head>
+
+<body>
+  <header>
+    <h1>Bhavesh Neekhra</h1>
+    <p>High-Dimensional Data & ML Researcher — Finishing PhD in 2025</p>
+    <div>
+      <a class="button" href="./Bhavesh_Neekhra_CV_Mar_25.pdf" target="_blank" rel="noopener">Download CV</a>
+      <a class="button" href="https://github.com/bhaveshneekhra" target="_blank" rel="noopener">GitHub</a>
+    </div>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#research">Research</a>
+    <!-- <a href="#publications">Publications</a>
+    <a href="#projects">Projects</a>
+    <a href="#teaching">Teaching</a>
+    <a href="#industry">Industry</a> -->
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I’m a PhD scholar at Ashoka University focused on ensemble methods and computational genetics, with prior experience in software engineering and undergraduate teaching. My work bridges AI, disease modeling, and evolutionary biology.</p>
+  </section>
+
+  <section id="research">
+    <h2>Research</h2>
+    <div class="highlight">
+      <strong>Thesis:</strong> Feature Selection in High-Dimensional Datasets for Classification<br />
+      Exploring ensemble strategies and synthetic populations for robust disease prediction.
+    </div>
+    <p>Keywords: ensemble learning, evo-ML, single-cell omics, synthetic populations, feature attribution, model uncertainty.</p>
+  </section>
+
+  <!-- <section id="publications">
+    <h2>Publications</h2>
+    <ul>
+      <li><strong>Paper Title</strong>, Neekhra et al., <em>Nature Methods</em>, 2025. <a href="#">[arXiv]</a> <a href="#">[Code]</a></li>
+      <li><strong>Another Title</strong>, Conference XYZ, 2024. <a href="#">[PDF]</a></li>
+    </ul>
+  </section> -->
+
+  <!-- <section id="projects">
+    <h2>Projects & Tools</h2>
+    <div class="highlight">
+      <strong>Synthetic Population Simulator</strong><br />
+      Multi-agent simulation of disease spread using genetic priors.<br />
+      <a class="button" href="#">GitHub</a>
+    </div>
+  </section> -->
+
+  <!-- <section id="teaching">
+    <h2>Teaching</h2>
+    <p>Former Assistant Professor at Presidency University, Bangalore.<br />Courses: Algorithms, AI, Software Systems.</p>
+  </section>
+
+  <section id="industry">
+    <h2>Industry Experience</h2>
+    <p>Former Software Engineer at Citrix R&D, worked on high-performance networking and hardware integration.</p>
+  </section> -->
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: bhavesh.neekhra_phd18[at]ashoka[dot]edu[dot]in</p>
+    <p><a class="button" href="./Bhavesh_Neekhra_CV_Mar_25.pdf" target="_blank" rel="noopener">Download CV</a></p>
+    <p>ORCID: <a href="https://orcid.org/0000-0001-5468-0812" target="_blank" rel="noopener">0000-0001-5468-0812</a></p>
+  </section>
+
+  <footer>
+    <p>Last updated: June 2025 • Powered by GitHub Pages</p>
+  </footer>
+
+  <button class="toggle-button" onclick="toggleDarkMode()">🌓 Toggle Theme</button>
+</body>
+</html>

@@ -1,7 +1,7 @@
 # bhaveshneekhra.github.io
 
 
-# 📊 github website Repo Stats
+# 📊 Github website Repo Stats
 
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=bhaveshneekhra&repo=bhaveshneekhra.github.io&theme=radical)
 

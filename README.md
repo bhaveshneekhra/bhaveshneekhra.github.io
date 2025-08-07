@@ -3,15 +3,15 @@
 
 # 📊 Dashboard Repo Stats
 
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=bhaveshneekhra&repo=dashboard&theme=radical)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=bhaveshneekhra&repo=Feature_Selection_HD&theme=radical)
 
-![GitHub stars](https://img.shields.io/github/stars/bhaveshneekhra/dashboard?style=social)
-![GitHub forks](https://img.shields.io/github/forks/bhaveshneekhra/dashboard?style=social)
-![GitHub issues](https://img.shields.io/github/issues/bhaveshneekhra/dashboard)
-![Last commit](https://img.shields.io/github/last-commit/bhaveshneekhra/dashboard)
-![Repo size](https://img.shields.io/github/repo-size/bhaveshneekhra/dashboard)
-![Languages](https://img.shields.io/github/languages/count/bhaveshneekhra/dashboard)
-![Top language](https://img.shields.io/github/languages/top/bhaveshneekhra/dashboard)
+![GitHub stars](https://img.shields.io/github/stars/bhaveshneekhra/Feature_Selection_HD?style=social)
+![GitHub forks](https://img.shields.io/github/forks/bhaveshneekhra/Feature_Selection_HD?style=social)
+![GitHub issues](https://img.shields.io/github/issues/bhaveshneekhra/Feature_Selection_HD)
+![Last commit](https://img.shields.io/github/last-commit/bhaveshneekhra/Feature_Selection_HD)
+![Repo size](https://img.shields.io/github/repo-size/bhaveshneekhra/Feature_Selection_HD)
+![Languages](https://img.shields.io/github/languages/count/bhaveshneekhra/Feature_Selection_HD)
+![Top language](https://img.shields.io/github/languages/top/bhaveshneekhra/Feature_Selection_HD)
 
 ---
 

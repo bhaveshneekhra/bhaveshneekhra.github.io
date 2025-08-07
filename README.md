@@ -1,17 +1,17 @@
 # bhaveshneekhra.github.io
 
 
-# 📊 Dashboard Repo Stats
+# 📊 FS Repo Stats
 
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=bhaveshneekhra&repo=Feature_Selection_HD&theme=radical)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=bhaveshneekhra&repo=synthpop&theme=radical)
 
-![GitHub stars](https://img.shields.io/github/stars/bhaveshneekhra/Feature_Selection_HD?style=social)
-![GitHub forks](https://img.shields.io/github/forks/bhaveshneekhra/Feature_Selection_HD?style=social)
-![GitHub issues](https://img.shields.io/github/issues/bhaveshneekhra/Feature_Selection_HD)
-![Last commit](https://img.shields.io/github/last-commit/bhaveshneekhra/Feature_Selection_HD)
-![Repo size](https://img.shields.io/github/repo-size/bhaveshneekhra/Feature_Selection_HD)
-![Languages](https://img.shields.io/github/languages/count/bhaveshneekhra/Feature_Selection_HD)
-![Top language](https://img.shields.io/github/languages/top/bhaveshneekhra/Feature_Selection_HD)
+![GitHub stars](https://img.shields.io/github/stars/bhaveshneekhra/synthpop?style=social)
+![GitHub forks](https://img.shields.io/github/forks/bhaveshneekhra/synthpop?style=social)
+![GitHub issues](https://img.shields.io/github/issues/bhaveshneekhra/synthpop)
+![Last commit](https://img.shields.io/github/last-commit/bhaveshneekhra/synthpop)
+![Repo size](https://img.shields.io/github/repo-size/bhaveshneekhra/synthpop)
+![Languages](https://img.shields.io/github/languages/count/bhaveshneekhra/synthpop)
+![Top language](https://img.shields.io/github/languages/top/bhaveshneekhra/synthpop)
 
 ---
 

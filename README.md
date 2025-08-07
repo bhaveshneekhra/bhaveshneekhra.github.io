@@ -1,7 +1,7 @@
 # bhaveshneekhra.github.io
 
 
-# 📊 FS Repo Stats
+# 📊 Synthpop Repo Stats
 
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=bhaveshneekhra&repo=synthpop&theme=radical)
 

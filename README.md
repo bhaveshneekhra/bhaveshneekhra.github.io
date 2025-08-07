@@ -1,6 +1,20 @@
 # bhaveshneekhra.github.io
 
 
+# 📊 github website Repo Stats
+
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=bhaveshneekhra&repo=bhaveshneekhra.github.io&theme=radical)
+
+![GitHub stars](https://img.shields.io/github/stars/bhaveshneekhra/bhaveshneekhra.github.io?style=social)
+![GitHub forks](https://img.shields.io/github/forks/bhaveshneekhra/bhaveshneekhra.github.io?style=social)
+![GitHub issues](https://img.shields.io/github/issues/bhaveshneekhra/bhaveshneekhra.github.io)
+![Last commit](https://img.shields.io/github/last-commit/bhaveshneekhra/bhaveshneekhra.github.io)
+![Repo size](https://img.shields.io/github/repo-size/bhaveshneekhra/bhaveshneekhra.github.io)
+![Languages](https://img.shields.io/github/languages/count/bhaveshneekhra/bhaveshneekhra.github.io)
+![Top language](https://img.shields.io/github/languages/top/bhaveshneekhra/bhaveshneekhra.github.io)
+
+---
+
 # 📊 Synthpop Repo Stats
 
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=bhaveshneekhra&repo=synthpop&theme=radical)
